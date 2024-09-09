@@ -1,0 +1,16 @@
+{
+  "name": "student-management-system-f_yaseen",
+  "version": "1.0.0",
+  "description": "simple console based Student Management System.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "farhana",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^5.5.0"
+  }
+}
